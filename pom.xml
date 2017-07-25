@@ -14,8 +14,9 @@
     <repository>
         <id>central</id>
         <name>Miracle-Test-Maven</name>
-        <url>http://192.168.52.138:8081/artifactory/</url>
+        <url>http://192.168.52.138:8081/artifactory/generic-local</url>
     </repository>
+    
   </distributionManagement>
 
   <properties>
