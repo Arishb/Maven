@@ -4,7 +4,7 @@
 
   <groupId>edu.miracle.com</groupId>
   <artifactId>Testmaven</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Testmaven</name>
@@ -14,7 +14,7 @@
     <repository>
         <id>central</id>
         <name>Miracle-Test-Maven</name>
-        <url>http://192.168.52.138:8081/artifactory/generic-local</url>
+        <url>http://192.168.52.140:8081/artifactory/generic-local</url>
     </repository>
     
   </distributionManagement>

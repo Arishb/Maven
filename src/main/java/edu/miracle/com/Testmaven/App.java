@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Hello Maven!!");
+        System.out.println("Pusing to Artifactory");
     }
 }
